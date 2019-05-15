@@ -13,3 +13,10 @@ img[title="Welcome to Exceptional Realty Group"] {
   border-width: 1px;
   border-color: red;
 }
+
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
