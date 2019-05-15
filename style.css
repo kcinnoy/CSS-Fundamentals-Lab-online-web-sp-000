@@ -40,3 +40,14 @@ figcaption {
   margin: auto;
 
 }
+
+#details {
+  display: block;
+  text-align: center;
+}
+
+#details div {
+  float: left;
+  background-color: lightgray;
+  width: 25%;
+}
