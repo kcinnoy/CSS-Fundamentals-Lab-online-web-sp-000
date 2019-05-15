@@ -27,7 +27,6 @@ nav a{
 }
 
 .nav_top {
-  margin-left: auto;
-  margin-right: auto;
+list-style-type: none;
   display: inline-block;
 }
