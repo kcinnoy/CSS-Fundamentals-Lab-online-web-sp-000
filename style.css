@@ -25,7 +25,6 @@ nav a{
   padding: 0px 10px;
 }
 
-.nav_top {
-list-style-type: none;
-  display: inline-block;
+header {
+  text-align: center;
 }
