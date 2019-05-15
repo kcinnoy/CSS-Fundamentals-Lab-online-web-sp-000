@@ -11,4 +11,5 @@ h1 {
 
 img[title="Welcome to Exceptional Realty Group"] {
   border-width: 1px;
+  border-color: red;
 }
