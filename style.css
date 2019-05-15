@@ -29,4 +29,5 @@ nav a{
 .nav_top {
   margin-left: auto;
   margin-right: auto;
+  display: inline-block;
 }
