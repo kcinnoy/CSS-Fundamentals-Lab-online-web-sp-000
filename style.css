@@ -9,10 +9,10 @@ h1 {
   text-align: center;
 }
 
-a[href^="http"] {
+/*a[href^="http"] {
   border-width: 1px;
   border-color: red;
-}
+}*/
 
 
 .center {
