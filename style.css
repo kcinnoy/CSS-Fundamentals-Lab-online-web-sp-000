@@ -8,3 +8,7 @@ body {
 h1 {
   text-align: center;
 }
+
+img[title="Welcome to Exceptional Realty Group"] {
+  border-width: 1px;
+}
