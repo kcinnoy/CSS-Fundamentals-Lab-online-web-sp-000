@@ -9,7 +9,7 @@ h1 {
   text-align: center;
 }
 
-a[title="Welcome to Exceptional Realty Group"] {
+a[href^="http"] {
   border-width: 1px;
   border-color: red;
 }
